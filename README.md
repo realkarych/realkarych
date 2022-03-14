@@ -4,7 +4,6 @@
 </h1>
 
 - I’m mobile developer and ChatBots creator
-- I’m from Russia, Yaroslavl
 - My channel: https://t.me/kaarych_chan
 - How to reach me: https://t.me/kaarych  **or** kaarych@gmail.com
 
