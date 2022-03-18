@@ -24,4 +24,4 @@
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/devkarych"><img src="https://github-profile-trophy.vercel.app/?username=Kaarych&margin-w=5&theme=radical" alt="Karych" /></a> </p>
+<p align="center"> <a href="https://github.com/devkarych"><img src="https://github-profile-trophy.vercel.app/?username=devkarych&margin-w=5&theme=radical" alt="Karych" /></a> </p>
