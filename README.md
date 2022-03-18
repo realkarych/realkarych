@@ -3,7 +3,7 @@
    <!-- I'm <a href="https://t.me/devkarych">Andrey Karchevsky</a>!  -->
 </h1>
 
-- I’m developer
+- I’m Python developer.
 - My channel: https://t.me/devkarych
 - How to reach me: https://t.me/dev_karych  **or** devkarych@yandex.ru
 
