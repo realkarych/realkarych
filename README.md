@@ -1,11 +1,11 @@
 <h1 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   <!-- I'm <a href="https://t.me/devkarych">Andrey Karchevsky</a>!  -->
+   <!-- I'm <a href="https://t.me/karych">Andrey Karchevsky</a>!  -->
 </h1>
 
 - I’m Python developer.
 - My channel: https://t.me/devkarych
-- How to reach me: https://t.me/dev_karych  **or** devkarych@yandex.ru
+- How to reach me: https://t.me/karych  **or** devkarych@yandex.ru
 
 <img src="https://user-images.githubusercontent.com/62261985/159140519-0535b696-d8a5-46b4-b55b-c044e5449f8f.png" alt="Karych logo" width="800" height="400">
 
