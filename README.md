@@ -4,6 +4,8 @@
 </h1>
 
 - I’m Python developer.
+- Apologist of Telegram Bots & web development. Newbie web dev.
+- Now I work on: karych.ru — my website.
 - My channel: https://t.me/devkarych
 - How to reach me: https://t.me/karych  **or** devkarych@yandex.ru
 
