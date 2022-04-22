@@ -7,7 +7,7 @@
 - Apologist of Telegram Bots & web development. Newbie web dev.
 - Now I work on: karych.ru — my website.
 - My channel: https://t.me/devkarych
-- How to reach me: https://t.me/karych  **or** devkarych@yandex.ru
+- How to reach me: https://t.me/karych  **or** karych@karych.ru
 
 <img src="https://user-images.githubusercontent.com/62261985/159140519-0535b696-d8a5-46b4-b55b-c044e5449f8f.png" alt="Karych logo" width="800" height="400">
 
