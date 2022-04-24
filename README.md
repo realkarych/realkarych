@@ -9,8 +9,7 @@
 - My channel: https://t.me/devkarych
 - How to reach me: https://t.me/karych  **or** karych@karych.ru
 
-<img src="https://user-images.githubusercontent.com/62261985/159140519-0535b696-d8a5-46b4-b55b-c044e5449f8f.png" alt="Karych logo" width="800" height="400">
-
+<img src="https://user-images.githubusercontent.com/62261985/164965955-927ed2b6-9f8d-4904-934b-0db1ade8252c.png" alt="Karych logo">
 
 <h2 align=center>&nbsp;Github Info ℹ️</h2>
 	
