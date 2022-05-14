@@ -5,13 +5,11 @@
 
 - I’m Python developer.
 - Apologist of Telegram Bots & web development. Newbie web dev.
-- Now I work on: karych.ru — my website.
+- Now I work on <a href="http://karych.ru">karych.ru</a> — my personal website.
 - My channel: https://t.me/devkarych
 - How to reach me: https://t.me/karych  **or** karych@karych.ru
-
-<img src="https://user-images.githubusercontent.com/62261985/164965955-927ed2b6-9f8d-4904-934b-0db1ade8252c.png" alt="Karych logo">
-
-<h2 align=center>&nbsp;Github Info ℹ️</h2>
+<img src="https://user-images.githubusercontent.com/62261985/168430602-839a71b7-15dd-4a57-af65-5a66b3528465.png" alt="Karych logo">
+<h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devkarych&theme=github_dark" alt="Karych" align = "center"/></p>
