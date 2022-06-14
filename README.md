@@ -5,7 +5,7 @@
 
 - I’m Python developer.
 - Apologist of Telegram Bots & web development. Newbie web dev.
-- Now I work on <a href="http://karych.ru">karych.ru</a> — my personal website.
+- Now I work on <a href="https://t.me/poof_robot">Poof</a> — RU chat-roulete in Telegram.
 - My channel: https://t.me/devkarych
 - How to reach me: https://t.me/karych  **or** karych@karych.ru
 <img src="https://user-images.githubusercontent.com/62261985/168430602-839a71b7-15dd-4a57-af65-5a66b3528465.png" alt="Karych logo">
