@@ -3,10 +3,7 @@
    <!-- I'm <a href="https://t.me/karych">Andrey Karchevsky</a>!  -->
 </h1>
 
-- I’m Python developer.
-- Apologist of Telegram Bots & web development. Newbie web dev.
-- Now I work on <a href="https://t.me/poof_robot">Poof</a> — RU chat-roulete in Telegram.
-- My channel: https://t.me/devkarych
+- I’m Python developer, Apologist of Telegram Bots & web techs. Newbie web dev. If you know russian, check my personal blog: https://t.me/karych_blog.
 - How to reach me: https://t.me/karych  **or** karych@karych.ru
 <img src="https://user-images.githubusercontent.com/62261985/168430602-839a71b7-15dd-4a57-af65-5a66b3528465.png" alt="Karych logo">
 <h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
