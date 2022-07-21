@@ -3,7 +3,7 @@
    <!-- I'm <a href="https://t.me/karych">Andrey Karchevsky</a>!  -->
 </h1>
 
-- I’m Python developer, Apologist of Telegram Bots & web techs. Newbie web dev. If you know russian, check my personal blog: https://t.me/devkarych.
+- I’m Python developer, Apologist of Telegram Bots & web techs. Newbie web dev. If you know russian, check my personal site-blog: https://karych.ru.
 - How to reach me: https://t.me/karych  **or** karych@karych.ru
 
 <h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
