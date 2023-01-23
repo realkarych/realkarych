@@ -1,10 +1,10 @@
 <h1 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   <!-- I'm <a href="https://t.me/karych">Andrey Karchevsky</a>!  -->
+   <!-- I'm <a href="https://karych.t.me/">Andrey Karchevsky</a>!  -->
 </h1>
 
 - I’m Python developer, Apologist of Web & Mobile techs. If you know russian, check my personal site-blog: https://blog.karych.ru.
-- How to reach me: https://t.me/karych  **or** karych@karych.ru
+- How to reach me: https://karych.t.me  **or** karych@karych.ru
 
 <h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
 
