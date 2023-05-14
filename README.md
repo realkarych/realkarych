@@ -1,9 +1,10 @@
 <h1 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   <!-- I'm <a href="https://karych.t.me/">Andrey Karchevsky</a>!  -->
 </h1>
 
-- I’m Python developer, Apologist of Web & Mobile techs. If you know russian, check my personal site-blog: https://blog.karych.ru.
+![karych-backlogo](https://github.com/yakarych/yakarych/assets/62261985/f8675a21-abbe-4ac4-ae28-d7b21018fb3b)
+
+- I’m Python developer, Apologist of Web & Mobile techs. If you know russian, check my personal site-blog: https://t.me/yakarych.
 - How to reach me: https://karych.t.me  **or** karych@karych.ru
 
 <h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
