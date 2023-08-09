@@ -4,8 +4,9 @@
 
 ![karych-backlogo](https://github.com/yakarych/yakarych/assets/62261985/f8675a21-abbe-4ac4-ae28-d7b21018fb3b)
 
-- I’m Python developer, Apologist of Web & Mobile techs. If you know russian, check my personal site-blog: https://t.me/yakarych.
+- I’m Python developer, Apologist of innovative Web technologies. If you know russian, check my personal blog: https://t.me/yakarych
 - How to reach me: https://karych.t.me  **or** karych@karych.ru
+- About me and my projects: http://karych.ru
 
 <h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
 
