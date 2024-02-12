@@ -6,6 +6,7 @@
 
 - Student
 - Backend developer
+- Check out my blog [ru]: https://t.me/realkarych
 
 **Currently I'm working on:**
 - POSTAMT (Email client): https://github.com/realkarych/postamt/
