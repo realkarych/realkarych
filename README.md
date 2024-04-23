@@ -6,9 +6,3 @@
 
 - Student
 - Backend developer
-- Check out my blog [ru]: https://t.me/realkarych
-- Read my posts: https://blog.karych.ru
-
-**Currently I'm working on:**
-- POSTAMT (Email client): https://github.com/realkarych/postamt/
-- Teselecta (project for partial decentralization of data storage): https://github.com/teselectapi/
