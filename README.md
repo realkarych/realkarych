@@ -6,3 +6,5 @@
 
 - Student
 - Backend developer
+
+Currently I'm working on <a href="https://github.com/tardisapp">Tardis</a> — platform designed for seamless audio and video conferencing, facilitating group communication and collaboration.
