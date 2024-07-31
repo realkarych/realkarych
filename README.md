@@ -9,6 +9,7 @@
     <li>🌆 Russia, Moscow / SPb.</li>
     <li>🧑‍💻 Intern Backend Engineer at Yandex.</li>
     <li>🕵️‍♂️ Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (<a href="https://fitp.itmo.ru/p/about-fitp/753">09.03.02</a>).</li>
+    <li>💫 Follow my <a href="https://t.me/realkarych">Telegram</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
 </ul>
 
-Currently I'm working on <b><a href="https://github.com/realkarych/rxconf">RxConf</a></b> — library for dynamic configuration management in Python. Contact <a href="https://t.me/karych">me</a> in Telegram to collaborate.
+Currently I'm working on <b><a href="https://github.com/realkarych/rxconf">RxConf</a></b> — library for dynamic configuration management in Python. Contact <a href="https://t.me/karych">me</a> in Telegram or write E-Mail (karych@karych.ru) to collaborate.
