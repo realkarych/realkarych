@@ -2,7 +2,13 @@
     <img width="50%" src="https://github.com/realkarych/realkarych/assets/62261985/3a185c8c-7922-48a9-8f59-b31745efa481">
 </p>
 
-**Who am I?**
+<h1 align="center"> Whoami?</h1>
 
-- Student
-- Backend developer
+<ul>
+    <li>🤵🏼‍♂️ Andrey Karchevsky, 19 y.o.</li>
+    <li>🌆 Russia, Moscow / SPb.</li>
+    <li>🧑‍💻 Intern Backend Engineer at Yandex.</li>
+    <li>🕵️‍♂️ Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (<a href="https://fitp.itmo.ru/p/about-fitp/753">09.03.02</a>).</li>
+</ul>
+
+Currently I'm working on <b><a href="https://github.com/realkarych/rxconf">RxConf</a></b> — library for dynamic configuration management in Python. Contact <a href="https://t.me/karych">me</a> in Telegram to collaborate.
