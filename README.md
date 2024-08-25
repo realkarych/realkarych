@@ -14,4 +14,4 @@
 
 Currently I'm working on <b><a href="https://github.com/realkarych/rxconf">RxConf</a></b> — library for dynamic configuration management in Python. Contact <a href="https://t.me/karych">me</a> in Telegram or write E-Mail (karych@karych.ru) to collaborate.
 
-**Check out my <a href=https://github.com/realkarych/cv/blob/main/CV.pdf>CV</a>**.
+**Download my <a href=https://github.com/realkarych/cv/blob/main/CV.pdf>CV</a>**.
