@@ -7,7 +7,7 @@
 <ul>
     <li>🤵🏼‍♂️ Andrey Karchevsky, 19 y.o.</li>
     <li>🌆 Russia, Moscow / SPb.</li>
-    <li>🧑‍💻 Backend-, Data- Engineer at Yandex.</li>
+    <li>🧑‍💻 Data engineer.</li>
     <li>🕵️‍♂️ Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (<a href="https://fitp.itmo.ru/p/about-fitp/753">09.03.02</a>).</li>
     <li>💫 Follow my <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
 </ul>
