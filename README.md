@@ -5,7 +5,7 @@
 <h1 align="center"> Whoami?</h1>
 
 <ul>
-    <li>🤵🏼‍♂️ Andrey Karchevsky, 19 y.o.</li>
+    <li>🤵🏼‍♂️ Andrey Karchevsky, 20 y.o.</li>
     <li>🌆 Russia, SPb / Moscow.</li>
     <li>🧑‍💻 Data engineer at <a href="https://codescoring.ru/">CodeScoring</a>; Ex. data platform engineer at Yandex.</li>
     <li>🕵️‍♂️ Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (<a href="https://fitp.itmo.ru/p/about-fitp/753">09.03.02</a>).</li>
