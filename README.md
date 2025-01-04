@@ -12,6 +12,6 @@
     <li>💫 Follow my <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
 </ul>
 
-Currently I'm working on <b><a href="https://github.com/realkarych/rxconf">RxConf</a></b> — library for realtime configuration management in Python. Contact <a href="https://t.me/karych">me</a> in Telegram or write E-Mail (karych@karych.ru) to collaborate.
+Currently I'm working on <b><a href="https://github.com/realkarych/rxconf">RxConf</a></b> — library for realtime configuration management in Python.
 
 **Check out my <a href=https://github.com/realkarych/cv/>CV</a>**.
