@@ -11,6 +11,6 @@
     <li>💫 Follow my <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
 </ul>
 
-Currently I'm working on <b><a href="https://github.com/realkarych/seqwall">Seqwall</a></b> — a tool for testing postgres migrations; <a href="https://github.com/realkarych/torra">**Torra**</a> — events manager at <a href="https://t.me/spbpython">SPb Python Meetup</a> community.
+Currently I'm working on <b><a href="https://github.com/realkarych/seqwall">Seqwall</a></b> — a tool for testing postgres migrations.
 
 **Check out my <a href=https://github.com/realkarych/cv/>CV</a>**.
