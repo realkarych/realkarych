@@ -12,5 +12,3 @@
 </ul>
 
 Currently I'm working on <b><a href="https://github.com/realkarych/seqwall">Seqwall</a></b> — a tool for testing postgres migrations.
-
-**Check out my <a href=https://github.com/realkarych/cv/>CV</a>**.
