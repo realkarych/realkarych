@@ -5,7 +5,7 @@
 <h1 align="center"> Whoami?</h1>
 
 <ul>
-    <li>🤵🏼‍♂️ Andrey Karchevsky, Russia, SPb / Moscow.</li>
+    <li>🤵🏼‍♂️ Andrey Karchevsky, Russia, SPb.</li>
     <li>🧑‍💻 Software Engineer at Yandex; Ex. Data Engineer at <a href="https://codescoring.ru/">CodeScoring</a>.</li>
     <li>🕵️‍♂️ Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (<a href="https://fitp.itmo.ru/p/about-fitp/753">09.03.02</a>).</li>
     <li>💫 Follow my <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
