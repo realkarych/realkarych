@@ -9,7 +9,7 @@
     <li>🧑‍💻 Data Platform Engineer at Yandex ML infrastructure; ex. Data Engineer at <a href="https://codescoring.ru/">CodeScoring</a>.</li>
     <li>🕵️‍♂️ Bachelor's at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (<a href="https://fitp.itmo.ru/p/about-fitp/753">09.03.02</a>).</li>
     <li>🕵️‍♂️ Bachelor's at <a href="https://en.wikipedia.org/wiki/Financial_University_under_the_Government_of_the_Russian_Federation">Financial University under the Government of the Russian Federation</a>, Economics.</li>
-    <li>💫 Follow my <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
+    <li>💫 Let's connect on <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
 </ul>
 
 Currently I'm working on <b><a href="https://github.com/realkarych/seqwall">Seqwall</a></b> — a tool for testing postgres migrations.
