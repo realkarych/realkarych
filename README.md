@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="50%" src="https://github.com/realkarych/realkarych/assets/62261985/3a185c8c-7922-48a9-8f59-b31745efa481">
+    <img width="50%" src="https://github.com/user-attachments/assets/061b521c-b34b-49a0-bb85-be5ad032c5c2">
 </p>
 
 <h1 align="center"> Whoami?</h1>
