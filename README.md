@@ -12,4 +12,4 @@
     <li>💫 Let's connect on <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
 </ul>
 
-Currently I'm working on <b><a href="https://github.com/realkarych/seqwall">Seqwall</a></b> — a tool for testing postgres migrations.
+Currently I'm working on Multiagent systems based on LLM pipelines, Text2YQL, and data platform components.
