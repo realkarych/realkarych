@@ -12,4 +12,6 @@
     <li>💫 Let's connect on <a href="https://linkedin.com/in/karych/">LinkedIn</a>, <a href="https://t.me/realkarych">Telegram Blog</a>, <a href="https://habr.com/ru/users/realkarych/">Habr</a>.</li>
 </ul>
 
-Currently I'm working on Multiagent systems based on LLM pipelines, Text2YQL, and data platform components.
+Currently, I build AI systems that make data engineers and analysts faster.
+At Yandex ML Infrastructure, I designed and shipped Logos Neuro — a multi-agent system for generating production ETL pipelines over YTsaurus, a large-scale data platform with 2+ exabytes of data.
+The system reached 200+ monthly active users and saved 7%+ of team FTE by automating repetitive data engineering workflows.
