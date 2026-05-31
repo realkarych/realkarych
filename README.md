@@ -14,4 +14,4 @@
 
 Currently, I build AI systems that make data engineers and analysts faster.
 At Yandex ML Infrastructure, I designed and shipped Logos Neuro — a multi-agent system for generating production ETL pipelines over YTsaurus, a large-scale data platform with 2+ exabytes of data.
-The system reached 200+ monthly active users and saved 7%+ of team FTE by automating repetitive data engineering workflows.
+The system reached 200+ monthly active users and saved a lot of team FTE by automating repetitive data engineering workflows.
